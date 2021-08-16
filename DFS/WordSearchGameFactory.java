@@ -2,9 +2,8 @@
 /**
  * Provides a factory method for creating word search games. 
  *
- * @author YOUR NAME (YOU@auburn.edu)
+ * @author Matthew Bankson (mlb0126@auburn.edu)
  * @author Dean Hendrix (dh@auburn.edu)
- * @version TODAY
  */
 public class WordSearchGameFactory {
 
