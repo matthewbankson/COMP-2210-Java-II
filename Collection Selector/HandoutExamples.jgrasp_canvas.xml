@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Canvas xmlns="http://www.jgrasp.org">
+  <Language>Java</Language>
+  <ShowTypes>false</ShowTypes>
+  <Version>2</Version>
+  <Grid>
+    <Snap>true</Snap>
+    <Show>false</Show>
+  </Grid>
+  <Scope id="0">
+    <Name>ceiling</Name>
+    <Signature>(Ljava/util/Collection;Ljava/lang/Object;Ljava/util/Comparator;)Ljava/lang/Object;</Signature>
+    <DeclaringType>Selector</DeclaringType>
+    <Depth>2</Depth>
+  </Scope>
+  <Frame>
+    <Bounds>
+      <AutoSize>true</AutoSize>
+      <X>410</X>
+      <Y>80</Y>
+      <W>134</W>
+      <H>67</H>
+    </Bounds>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local java.lang.Object` t</Expression>
+      <ViewerClass>jgrasp_viewers._X_ElementView</ViewerClass>
+    </Viewer>
+  </Frame>
+  <Frame>
+    <Bounds>
+      <AutoSize>false</AutoSize>
+      <X>130</X>
+      <Y>100</Y>
+      <W>258</W>
+      <H>67</H>
+    </Bounds>
+    <PanelSize>
+      <Key>jgrasp_viewers._X_ElementView0</Key>
+      <Order>4</Order>
+      <W>264</W>
+      <H>101</H>
+    </PanelSize>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local java.lang.Object` ceiling</Expression>
+      <ViewerClass>jgrasp_viewers._X_ElementView</ViewerClass>
+    </Viewer>
+  </Frame>
+  <Frame>
+    <Bounds>
+      <AutoSize>true</AutoSize>
+      <X>130</X>
+      <Y>190</Y>
+      <W>133</W>
+      <H>67</H>
+    </Bounds>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local java.lang.Object` key</Expression>
+      <ViewerClass>jgrasp_viewers._X_ElementView</ViewerClass>
+    </Viewer>
+  </Frame>
+  <Frame>
+    <Bounds>
+      <AutoSize>true</AutoSize>
+      <X>370</X>
+      <Y>190</Y>
+      <W>201</W>
+      <H>67</H>
+    </Bounds>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local java.util.Iterator` itr</Expression>
+      <ViewerClass>jgrasp_viewers._X_ElementView</ViewerClass>
+    </Viewer>
+  </Frame>
+  <Size>
+    <W>683</W>
+    <H>384</H>
+  </Size>
+  <ESize>
+    <W>683</W>
+    <H>384</H>
+  </ESize>
+</Canvas>
