@@ -3,9 +3,8 @@ import java.util.Arrays;
 * Defines a library of selection methods
 * on arrays of ints.
 *
-* @author   YOUR NAME (YOU@auburn.edu)
+* @author   Matthew Bankson (mlb0126@auburn.edu)
 * @author   Dean Hendrix (dh@auburn.edu)
-* @version  TODAY
 *
 */
 public final class Selector {
